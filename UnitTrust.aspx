@@ -32,10 +32,6 @@
                     </div>
             </div>
                  <div class="panel-body"> </div>
-                        <div class="form-group">
-                            <asp:Label ID="PlanName"  runat="server" Text="Selected Plan:"></asp:Label>
-                            <asp:TextBox ID="tbPlanName" runat="server" CssClass="form-control" Enabled="false"></asp:TextBox>
-                        </div>
              <div class="row"> 
               <label for="Lbl_Principal" class="col-sm-2 col-form-label">Principal:</label>
                     <div class="col-sm-4">

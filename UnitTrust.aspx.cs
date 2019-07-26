@@ -11,7 +11,7 @@ namespace EADP_Proj
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-//            lbCustId.Text = Session[""].ToString();
+//          lbCustId.Text = Session[""].ToString();
             lbCustId.Text = "Bank";
         }
 
